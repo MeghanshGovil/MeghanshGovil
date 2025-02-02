@@ -4,8 +4,8 @@
 I'm a passionate Machine Learning enthusiast and software developer with a knack for creating advanced projects that push the boundaries of AI and technology.
 
 ## 💻 Tech Stack
-- **Languages:** Python, C++, Java, JavaScript
-- **Domains:** Machine Learning, Neural Networks, Deep Learning and Cloud Computing Using AWS
+- **Languages:** Python, C++ and C
+- **Domains:** Machine Learning, Neural Networks, Deep Learning, Natural Language Processing and OpenCV
 
 ## 🔭 Current Focus
 I'm currently diving deeper into:
